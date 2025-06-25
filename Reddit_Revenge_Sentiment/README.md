@@ -1,2 +1,0 @@
-This project uses PRAW (Python Reddit API Wrapper), which requires Reddit OAuth2 credentials to function properly.
-To get started, please refer to Reddit’s OAuth2 Quick Start Guide (https://github.com/reddit-archive/reddit/wiki/OAuth2) for setup instructions.
